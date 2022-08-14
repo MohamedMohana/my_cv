@@ -5,27 +5,28 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Classical Machine Learning
+  - AI for Environment
+  - AI in Renewable Energy
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/mohd_muhanna
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=X0SGCx8AAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/MohamedMohana
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/mohdmohana/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: King Khalid University
+    url: https://www.kku.edu.sa/
 education:
   courses:
     - course: PhD in Artificial Intelligence
