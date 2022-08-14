@@ -20,7 +20,7 @@ feature:
     icon_pack: fab
     name: Python
     
-  - icon: brain-circuit
+  - icon: brain
     icon_pack: fas
     name: ML DL
     
