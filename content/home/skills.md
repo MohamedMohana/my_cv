@@ -21,7 +21,7 @@ feature:
     name: Python
   
   - icon: brain-circuit
-    icon_pack: fas
+    icon_pack: fab
     name: Machine & Deep Learning
     
   - description: 100%
