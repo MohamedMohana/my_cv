@@ -1,6 +1,7 @@
 ---
 title: Mohamed Mohana
 role: Artificial Intelligence Research Engineer
+avatar_filename: a1-copy.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -35,7 +36,7 @@ education:
     - course: MEng in Mechatronics, Robotics, and Automation Using AI
       institution: Universiti Teknologi Malaysia
       year: 2019
-    - course: BE in Mechatronics, Robotics, and Automation 
+    - course: BE in Mechatronics, Robotics, and Automation
       institution: Universiti Teknologi Malaysia
       year: 2018
 email: ""
