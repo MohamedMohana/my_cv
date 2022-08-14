@@ -21,10 +21,10 @@ feature:
     name: Python
   
   - icon: brain-circuit
-    icon_pack: fab
-    name: Machine & Deep Learning
+    icon_pack: fas
+    name: m #Machine & Deep Learning
     
-  - description: 100%
+  - #description: 100%
     icon: chart-line
     icon_pack: fas
     name: Statistics
