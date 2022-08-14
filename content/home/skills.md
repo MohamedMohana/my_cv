@@ -22,7 +22,7 @@ feature:
     
   - icon: brain
     icon_pack: fas
-    name: ML DL
+    name: ML & DL
     
   - icon: chart-line
     icon_pack: fas
