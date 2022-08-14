@@ -20,7 +20,7 @@ feature:
     icon_pack: fab
     name: Python
   
-  - icon: microchip-ai
+  - icon: brain-circuit
     icon_pack: fas
     name: Machine & Deep Learning
     
