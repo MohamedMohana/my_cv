@@ -30,6 +30,10 @@ feature:
     icon_pack: fas
     name: Statistics
     
+  - #description: 100%
+    icon: raspberry-pi
+    icon_pack: fab
+    name: Raspberry Pi
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
