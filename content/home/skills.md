@@ -19,11 +19,6 @@ feature:
   - icon: python
     icon_pack: fab
     name: Python
-
-
-  - icon: microchip-ai
-    icon_pack: fas
-    name: Machine & Deep Learning
     
   - #description: 100%
     icon: chart-line
@@ -34,6 +29,11 @@ feature:
     icon: raspberry-pi
     icon_pack: fab
     name: Raspberry Pi
+    
+   - #description: 100%
+    icon: microchip-ai
+    icon_pack: fas
+    name: ML
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
