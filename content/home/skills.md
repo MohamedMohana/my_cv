@@ -19,18 +19,12 @@ feature:
   - icon: python
     icon_pack: fab
     name: Python
-  - #description: 100%
+    
+  - description: 100%
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - #description: 100%
-    icon: raspberry-pi
-    icon_pack: fab
-    name: Raspberry Pi
-   - #description: 100%
-    icon: microchip-ai
-    icon_pack: fas
-    name: AI
+    
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
