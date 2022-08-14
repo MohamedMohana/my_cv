@@ -44,7 +44,10 @@ feature:
     icon_pack: fab
     name: Raspberry Pi
     
-
+feature1:
+  - icon: python
+    icon_pack: fab
+    name: Python
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
