@@ -1,10 +1,13 @@
 ---
 widget: about
+active: true
+author: admin
 widget_id: محمد اسامه محمد مهنا
 headless: true
 weight: 20
 title: Biography
-active: true
-author: admin
+design:
+  background:
+    image: icon.png
 ---
 محمد اسامه محمد مهنا
