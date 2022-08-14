@@ -21,7 +21,7 @@ feature:
     name: Python
     
   - icon: brain-circuit
-    icon_pack: fal
+    icon_pack: fas
     name: ML DL
     
   - icon: chart-line
