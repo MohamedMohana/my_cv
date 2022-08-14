@@ -33,7 +33,7 @@ feature:
    - #description: 100%
     icon: microchip-ai
     icon_pack: fas
-    name: ML
+    name: AI
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
