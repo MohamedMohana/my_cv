@@ -43,8 +43,7 @@ superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mohamed Mohana is a Mechatronics Engineer with a solid background in control, electronics, mechanical, and computer systems. He has done his Master's Engineering in Control and Automation using AI; besides, he won the best master research from IEEE Malaysia Control System. He has been involved in real-life industrial problems and has overcome the challenges using IoT and Robots controlled by AI. He has created a UAV with an autopilot controller and a state-of-the-art IoT and computer vision device for potent security purposes. Recently, he has been working with AI in renewable energy, AI in healthcare, and NLP. However, he has the ability to see the whole picture from solving the problem (research) up to the solution deployment (development), to create AI-based solutions and products for real-world situations.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
