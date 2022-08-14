@@ -20,8 +20,8 @@ feature:
     icon_pack: fab
     name: Python
     
-  - icon: microchip-ai
-    icon_pack: fas
+  - icon: brain-circuit
+    icon_pack: fal
     name: ML & DL
     
   - icon: chart-line
