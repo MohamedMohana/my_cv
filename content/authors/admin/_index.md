@@ -43,7 +43,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-<p align="center">
+<p align="justify">
 Mohamed Mohana is a Mechatronics Engineer with a solid background in control, electronics, mechanical, and computer systems. He has done his Master's Engineering in Control and Automation using AI; besides, he won the best master research from IEEE Malaysia Control System. He has been involved in real-life industrial problems and has overcome the challenges using IoT and Robots controlled by AI. He has created a UAV with an autopilot controller and a state-of-the-art IoT and computer vision device for potent security purposes. Recently, he has been working with AI in renewable energy, AI in healthcare, and NLP. However, he has the ability to see the whole picture from solving the problem (research) up to the solution deployment (development), to create AI-based solutions and products for real-world situations. 
 </p>
 
