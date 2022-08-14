@@ -1,7 +1,7 @@
 ---
 title: Mohamed Mohana
 role: Artificial Intelligence Research Engineer
-avatar_filename: a1-copy.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
