@@ -8,6 +8,6 @@ weight: 20
 title: Biography
 design:
   background:
-    image: icon.png
+    image: ""
 ---
 محمد اسامه محمد مهنا
