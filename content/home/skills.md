@@ -20,10 +20,29 @@ feature:
     icon_pack: fab
     name: Python
     
-  - description: 100%
-    icon: chart-line
+  - icon: microchip-ai
+    icon_pack: fas
+    name: ML & DL
+    
+  - icon: chart-line
     icon_pack: fas
     name: Statistics
+    
+  - icon: chart-line
+    icon_pack: fas
+    name: Statistics
+    
+  - icon: chart-line
+    icon_pack: fas
+    name: Statistics
+    
+  - icon: microchip
+    icon_pack: fas
+    name: Arduino
+    
+  - icon: raspberry-pi
+    icon_pack: fab
+    name: Raspberry Pi
     
 
 # Uncomment to use emoji icons.
