@@ -1,6 +1,6 @@
 ---
 title: Mohamed Mohana
-role: Professor of Artificial Intelligence
+role: Artificial Intelligence Research Engineer
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
