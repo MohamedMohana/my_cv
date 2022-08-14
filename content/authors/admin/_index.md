@@ -29,15 +29,15 @@ organizations:
     url: https://www.kku.edu.sa/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Artificial Intelligence Engineer (Master Program)
+      institution: IBM
+      year: 2020
+    - course: MEng in Mechatronics, Robotics, and Automation Using AI
+      institution: Universiti Teknologi Malaysia
+      year: 2019
+    - course: BE in Mechatronics, Robotics, and Automation 
+      institution: Universiti Teknologi Malaysia
+      year: 2018
 email: ""
 superuser: true
 highlight_name: true
