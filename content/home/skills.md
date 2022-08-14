@@ -19,10 +19,10 @@ feature:
   - icon: python
     icon_pack: fab
     name: Python
-  
-  - icon: brain-circuit
-    icon_pack: fas
-    name: m #Machine & Deep Learning
+  - description: 100%
+    icon: microchip-ai
+    icon_pack: fa-solid
+    name: Machine & Deep Learning
     
   - #description: 100%
     icon: chart-line
