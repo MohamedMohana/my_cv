@@ -22,7 +22,7 @@ feature:
     
   - icon: brain-circuit
     icon_pack: fal
-    name: ML & DL
+    name: ML DL
     
   - icon: chart-line
     icon_pack: fas
