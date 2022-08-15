@@ -30,10 +30,10 @@ content:
   address:
     street: Center for Artificial Intelligence (CAI), King Khalid University
     city: Abha
-    region: AB
+    #region: AB
     postcode: '61421'
     country: Saudi Arabia
-    country_code: SA
+    #country_code: SA
   #coordinates:
     #latitude: '37.4275'
     #longitude: '-122.1697'
