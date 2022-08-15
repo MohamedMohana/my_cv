@@ -28,6 +28,8 @@ social:
 organizations:
   - name: King Khalid University
     url: https://www.kku.edu.sa/
+  - name: Center for Artificial Intelligence
+    url: https://cai.kku.edu.sa/
 education:
   courses:
     - course: Artificial Intelligence Engineer (Master Program)
@@ -39,7 +41,7 @@ education:
     - course: BE in Mechatronics, Robotics, and Automation
       institution: Universiti Teknologi Malaysia
       year: 2018
-email: "mmuhanna@kku.edu.sa"
+email: mmuhanna@kku.edu.sa
 superuser: true
 highlight_name: true
 ---
