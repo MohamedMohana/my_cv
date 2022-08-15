@@ -29,10 +29,10 @@ content:
   #phone: 888 888 88 88
   address:
     street: Center for Artificial Intelligence (CAI), King Khalid University
-    city: Abha 61421, Saudi Arabia
+    city: Abha 61421
     #region: AB
     #postcode: '61421'
-    #country: Saudi Arabia
+    country: Saudi Arabia
     #country_code: SA
   #coordinates:
     #latitude: '37.4275'
