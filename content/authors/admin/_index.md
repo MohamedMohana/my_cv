@@ -10,7 +10,7 @@ interests:
   - AI for Environment
   - AI in Renewable Energy
 social:
-  - icon: mailto
+  - icon: envelope
     icon_pack: fas
     link: mmuhanna@kku.edu.sa
   - icon: twitter
