@@ -39,7 +39,7 @@ education:
     - course: BE in Mechatronics, Robotics, and Automation
       institution: Universiti Teknologi Malaysia
       year: 2018
-email: ""
+email: "mmuhanna@kku.edu.sa"
 superuser: true
 highlight_name: true
 ---
