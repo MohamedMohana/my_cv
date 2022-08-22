@@ -60,6 +60,12 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 
+-subtitle: TECHNICAL SKILLSsss
+
+
+
+
+
 design:
   columns: '2'
 ---
