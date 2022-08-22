@@ -11,8 +11,8 @@ interests:
   - AI in Renewable Energy
   - Feature Selection
 social:
-  - icon: email
-    icon_pack: fas
+  - icon: envelope
+    icon_pack: far
     link: mmuhanna@kku.edu.sa
   - icon: twitter
     icon_pack: fab
