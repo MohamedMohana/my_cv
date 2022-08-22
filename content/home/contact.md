@@ -14,7 +14,7 @@ content:
       ? id
     netlify:
       captcha: false
-  email: mmuhanna@kku.edu.saa
+  email: mmuhanna@kku.edu.sa
   address:
     street: Center for Artificial Intelligence (CAI), King Khalid University
     city: Abha 61421
