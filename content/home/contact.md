@@ -26,6 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: mmuhanna@kku.edu.sa
+  email: mohammedommuhanna@gmail.com
   #phone: 888 888 88 88
   address:
     street: Center for Artificial Intelligence (CAI), King Khalid University
