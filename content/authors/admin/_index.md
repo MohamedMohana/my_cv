@@ -13,7 +13,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mmuhanna@kku.edu.sa
+    link: mailto:mmuhanna@kku.edu.sa
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/mohd_muhanna
