@@ -61,6 +61,10 @@ feature:
 #  description: "90%"
 
 -subtitle: TECHNICAL SKILLSsss
+-feature:
+  - icon: python
+    icon_pack: fab
+    name: Python
 
 
 
