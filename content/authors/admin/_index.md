@@ -12,7 +12,7 @@ interests:
   - Feature Selection
 social:
   - icon: envelope
-    icon_pack: far
+    icon_pack: fas
     link: mmuhanna@kku.edu.sa
   - icon: twitter
     icon_pack: fab
