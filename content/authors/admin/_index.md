@@ -9,8 +9,9 @@ interests:
   - Classical Machine Learning
   - AI for Environment
   - AI in Renewable Energy
+  - Feature Selection
 social:
-  - icon: envelope
+  - icon: email
     icon_pack: fas
     link: mmuhanna@kku.edu.sa
   - icon: twitter
