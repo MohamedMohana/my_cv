@@ -34,4 +34,4 @@ weight: 30
 title: Skills
 subtitle: TECHNICAL SKILLS
 ---
-Python
+* # Python
