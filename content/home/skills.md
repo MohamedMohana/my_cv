@@ -33,6 +33,10 @@ headless: true
 weight: 30
 title: Skills
 subtitle: TECHNICAL SKILLS
+feature:
+  - icon: python
+    icon_pack: fab
+    name: Python
 ---
 - - -
 
