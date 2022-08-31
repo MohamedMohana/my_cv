@@ -23,26 +23,11 @@ feature:
   - icon: brain
     icon_pack: fas
     name: ML & DL
-feature:   
+feature1:   
   - icon: chart-line
     icon_pack: fas
     name: Statistics
-feature:   
-  - icon: chart-line
-    icon_pack: fas
-    name: Statistics
-feature:    
-  - icon: chart-line
-    icon_pack: fas
-    name: Statistics
-feature:    
-  - icon: microchip
-    icon_pack: fas
-    name: Arduino
-feature:    
-  - icon: raspberry-pi
-    icon_pack: fab
-    name: Raspberry Pi
+
     
     
 # Uncomment to use emoji icons.
