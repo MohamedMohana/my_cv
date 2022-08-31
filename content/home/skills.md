@@ -19,15 +19,30 @@ feature:
   - icon: python
     icon_pack: fab
     name: Python
-feature:    
+    
   - icon: brain
     icon_pack: fas
     name: ML & DL
-feature1:   
+    
   - icon: chart-line
     icon_pack: fas
     name: Statistics
-
+    
+  - icon: chart-line
+    icon_pack: fas
+    name: Statistics
+    
+  - icon: chart-line
+    icon_pack: fas
+    name: Statistics
+    
+  - icon: microchip
+    icon_pack: fas
+    name: Arduino
+    
+  - icon: raspberry-pi
+    icon_pack: fab
+    name: Raspberry Pi
     
     
 # Uncomment to use emoji icons.
@@ -51,10 +66,4 @@ feature_2:
     icon_pack: fab
     name: Python
 
-
-
-
-
-design:
-  columns: '2'
 ---
