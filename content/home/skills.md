@@ -60,8 +60,8 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 
--subtitle: TECHNICAL SKILLSsss
--feature:
+subtitle_2: TECHNICAL SKILLSsss
+feature_2:
   - icon: python
     icon_pack: fab
     name: Python
