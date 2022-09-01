@@ -44,9 +44,9 @@ widget: featurette
 active: true
 feature_2:
 
-* icon: python
-      icon_pack: fab
-      name: Python
+* icon: brain
+      icon_pack: fas
+      name: brain
   subtitle_2: TECHNICAL SKILLSsss
   widget_id: re
   feature:
