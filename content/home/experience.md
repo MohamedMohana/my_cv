@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Artificial Intelligence Research Engineer
     company: Center for Artificial Intelligence at KKU
-    company_url: 'https://cai.kku.edu.sa/'
+    company_url: ''
     company_logo: cai.png
     location: Saudi Arabia
     date_start: '2019-07-01'
