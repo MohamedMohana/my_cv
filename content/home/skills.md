@@ -44,5 +44,6 @@ design:
 </ul>
 
 feature:
-icon_pack: fas
-name: ML & DL
+  - icon: python
+    icon_pack: fab
+    name: Python
