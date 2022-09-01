@@ -43,5 +43,6 @@ design:
 <li style="text-align: left;">AI</li>
 </ul>
 
+feature:
 icon_pack: fas
 name: ML & DL
