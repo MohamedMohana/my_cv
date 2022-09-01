@@ -42,3 +42,5 @@ design:
 <ul style="list-style-type: circle;">
 <li style="text-align: left;">AI</li>
 </ul>
+
+<i class="fa-brands fa-python"></i>
