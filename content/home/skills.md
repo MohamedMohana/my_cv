@@ -50,9 +50,6 @@ feature_2:
   subtitle_2: TECHNICAL SKILLSsss
   widget_id: re
   feature:
-* icon: python
-  icon_pack: fab
-  name: Python
 * icon: brain
   icon_pack: fas
   name: ML & DL
