@@ -1,9 +1,12 @@
 ---
 widget: featurette
-headless: true
-weight: 30
-title: Skills
-subtitle: TECHNICAL SKILLS
+active: true
+feature_2:
+  - icon: python
+    icon_pack: fab
+    name: Python
+subtitle_2: TECHNICAL SKILLSsss
+widget_id: here1
 feature:
   - icon: python
     icon_pack: fab
@@ -26,16 +29,13 @@ feature:
   - icon: raspberry-pi
     icon_pack: fab
     name: Raspberry Pi
-subtitle_2: TECHNICAL SKILLSsss
-feature_2:
-  - icon: python
-    icon_pack: fab
-    name: Python
-widget_id: here1
-active: true
+headless: true
+weight: 30
+title: Skills
+subtitle: TECHNICAL SKILLS
 design:
   columns: "2"
   background:
     text_color_light: true
 ---
-
+python
