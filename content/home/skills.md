@@ -1,6 +1,5 @@
 ---
 widget: featurette
-widget_id: here1
 headless: true
 weight: 30
 title: Skills
@@ -32,6 +31,8 @@ feature_2:
   - icon: python
     icon_pack: fab
     name: Python
+widget_id: here1
+active: true
 design:
   columns: "2"
   background:
