@@ -25,7 +25,7 @@ experience:
   - title: Artificial Intelligence Research Engineer
     company: Center for Artificial Intelligence at KKU
     company_url: ''
-    company_logo: cai.png
+    company_logo: org-x
     location: Saudi Arabia
     date_start: '2019-07-01'
     date_end: ''
