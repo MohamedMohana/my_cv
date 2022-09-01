@@ -32,10 +32,13 @@ feature:
 headless: true
 weight: 30
 title: Skills
-subtitle: TECHNICAL SKILLS
+subtitle: ""
 design:
   columns: "2"
   background:
     text_color_light: true
 ---
-python
+<p style="text-align: center;">TECHNICAL SKILLS</p>
+<ul style="list-style-type: circle;">
+<li style="text-align: left;">AI</li>
+</ul>
