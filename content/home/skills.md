@@ -1,6 +1,6 @@
 ---
 widget: featurette
-active: false
+active: true
 feature_2:
   - icon: python
     icon_pack: fab
