@@ -46,7 +46,7 @@ experience:
     description: Taught electronic engineering and researched semiconductor physics.
     
     
-  - title: Engineering Supervisor (IS)
+  - title: Engineering Supervisor(IS)
     company: Coca-Cola
     company_url: ''
     company_logo: Coca-Cola_logo
