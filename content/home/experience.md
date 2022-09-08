@@ -57,5 +57,5 @@ experience:
 
 
 design:
-  columns: '10'
+  columns: '1'
 ---
