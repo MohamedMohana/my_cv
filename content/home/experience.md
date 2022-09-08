@@ -36,23 +36,23 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Teacher Assistant
+    company: Universiti Teknologi Malaysia
     company_url: ''
     company_logo: UTM
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Malaysia
+    date_start: '2018-10-01'
+    date_end: '2019-06-31'
     description: Taught electronic engineering and researched semiconductor physics.
     
     
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Engineering Supervisor (IS)
+    company: Coca-Cola
     company_url: ''
     company_logo: Coca-Cola_logo
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Saudi Arabia
+    date_start: '2017-04-01'
+    date_end: '2017-08-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 
