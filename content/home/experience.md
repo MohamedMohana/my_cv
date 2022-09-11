@@ -52,7 +52,7 @@ experience:
     location: Saudi Arabia
     date_start: '2017-04-01'
     date_end: '2017-08-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Taught electronic engi
 
 
 design:
