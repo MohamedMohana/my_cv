@@ -43,7 +43,7 @@ experience:
     location: Malaysia
     date_start: '2018-10-01'
     date_end: '2019-06-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Taught electronic engineering and researched semiconductor phsics.
 
 design:
   columns: '2'
