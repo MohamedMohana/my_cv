@@ -35,13 +35,13 @@ organizations:
     url: https://cai.kku.edu.sa/
 education:
   courses:
-    - course: Artificial Intelligence Engineer (Master Program)
+    - course: Artificial Intelligence Engineer (Master Program) (4.0/4.0)
       institution: IBM
       year: 2020
-    - course: MEng in Mechatronics, Robotics, and Automation Using AI
+    - course: MEng in Mechatronics, Robotics, and Automation Using AI (3.9/4.0)
       institution: Universiti Teknologi Malaysia
       year: 2019
-    - course: BE in Mechatronics, Robotics, and Automation
+    - course: BE in Mechatronics, Robotics, and Automation (3.6/4.0)
       institution: Universiti Teknologi Malaysia
       year: 2018
 email: mmuhanna@kku.edu.sa
