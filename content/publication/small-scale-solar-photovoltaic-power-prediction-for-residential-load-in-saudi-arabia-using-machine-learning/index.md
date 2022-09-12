@@ -38,7 +38,7 @@ abstract: Photovoltaic (PV) systems have become one of the most promising
   features, the prediction models could minimize the generated power
   prediction’s mean squared error value to approximately 0.15.
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
