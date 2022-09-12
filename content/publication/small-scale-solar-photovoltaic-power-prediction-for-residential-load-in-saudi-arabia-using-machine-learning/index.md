@@ -9,6 +9,9 @@ authors:
   - Salem Alelyani
   - Mohammed J. Alshayeb
   - Suhail Basha and Ali Eisa Anqi
+author_notes:
+  - Equal contribution
+  - Equal contribution
 doi: https://doi.org/10.3390/en14206759
 publication: In *Energies*
 abstract: Photovoltaic (PV) systems have become one of the most promising
@@ -39,6 +42,10 @@ abstract: Photovoltaic (PV) systems have become one of the most promising
   prediction’s mean squared error value to approximately 0.15.
 draft: false
 featured: true
+tags:
+  - solar photovoltaic; power prediction; residential load; environmental
+    parameters; machine learning models; ensemble models; artificial neural
+    networks; correlation; backward feature elimination
 image:
   filename: https://www.mdpi.com/energies/energies-14-06759/article_deploy/html/images/energies-14-06759-g009-550.jpg
   focal_point: ""
