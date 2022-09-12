@@ -45,8 +45,8 @@ featured: true
 tags:
   - solar photovoltaic
 image:
-  filename: https://www.mdpi.com/energies/energies-14-06759/article_deploy/html/images/energies-14-06759-g009-550.jpg
-  focal_point: ""
+  filename: ""
+  focal_point: SMART
   preview_only: false
   caption: ""
 date: 2022-09-12T07:52:15.206Z
