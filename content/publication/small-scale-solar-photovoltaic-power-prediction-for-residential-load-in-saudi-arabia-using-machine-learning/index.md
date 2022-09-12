@@ -41,8 +41,18 @@ draft: false
 featured: true
 image:
   filename: https://www.mdpi.com/energies/energies-14-06759/article_deploy/html/images/energies-14-06759-g009-550.jpg
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
-  caption: (https://www.mdpi.com/energies/energies-14-06759/article_deploy/html/images/energies-14-06759-g009-550.jpg)
+  caption: ""
 date: 2022-09-12T07:52:15.206Z
 ---
+
+{{% callout note %}}
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the _Slides_ button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
