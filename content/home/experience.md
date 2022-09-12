@@ -44,16 +44,15 @@ experience:
     date_start: '2018-10-01'
     date_end: '2019-06-31'
     description: Taught electronic engineering and researched semiconductor physics.
-     
-  - title: Engineering Supervisor (IS)
+    
+<!--   - title: Engineering Supervisor (IS)
     company: Coca-Cola
     company_url: ''
     company_logo: Coca-Cola_logo
     location: Saudi Arabia
     date_start: '2017-04-01'
     date_end: '2017-08-31'
-    description: Taught electronic engi
-
+    description: Taught electronic engi -->
 
 design:
   columns: '2'
