@@ -2,10 +2,12 @@
 title: Mohamed Mohana
 role: Artificial Intelligence Research Engineer
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Artificial Intelligence, Computer Vision,
+  Classical Machine Learning, AI for Environment, AI in Renewable Energy,
+  Feature Selection.
 interests:
   - Artificial Intelligence
+  - Computer Vision
   - Classical Machine Learning
   - AI for Environment
   - AI in Renewable Energy
