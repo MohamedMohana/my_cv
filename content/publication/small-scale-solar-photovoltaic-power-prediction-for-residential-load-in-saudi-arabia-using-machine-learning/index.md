@@ -43,9 +43,7 @@ abstract: Photovoltaic (PV) systems have become one of the most promising
 draft: false
 featured: true
 tags:
-  - solar photovoltaic; power prediction; residential load; environmental
-    parameters; machine learning models; ensemble models; artificial neural
-    networks; correlation; backward feature elimination
+  - solar photovoltaic
 image:
   filename: https://www.mdpi.com/energies/energies-14-06759/article_deploy/html/images/energies-14-06759-g009-550.jpg
   focal_point: ""
