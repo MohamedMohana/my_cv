@@ -40,7 +40,7 @@ abstract: Photovoltaic (PV) systems have become one of the most promising
 draft: false
 featured: true
 image:
-  filename: https://www.mdpi.com/energies/energies-14-06759/article_deploy/html/images/energies-14-06759-g009-550.jpg
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2022-09-12T07:52:15.206Z
