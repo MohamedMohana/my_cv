@@ -12,6 +12,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
+  - Equal contribution
 doi: https://doi.org/10.3390/en14206759
 publication: In *Energies*
 abstract: Photovoltaic (PV) systems have become one of the most promising
@@ -43,7 +44,8 @@ abstract: Photovoltaic (PV) systems have become one of the most promising
 draft: false
 featured: true
 tags:
-  - solar photovoltaic
+  - Solar Photovoltaic
+  - PV
 image:
   filename: ""
   focal_point: SMART
