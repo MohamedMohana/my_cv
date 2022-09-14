@@ -35,7 +35,7 @@ experience:
         * Research and development.
         * Analysis, modeling and deploying.
         * Develop applications and systems that can help organizations increase efficiency.
-        * Perform intensive research & publication.
+        * Perform intensive research and publication.
         
   - title: Teaching Assistant
     company: Universiti Teknologi Malaysia
@@ -44,9 +44,9 @@ experience:
     location: Malaysia
     date_start: '2018-10-01'
     date_end: '2019-06-01'
-    description: Co-supervising master students' projects and research in the fields of AI
+    description: Co-supervising master students' projects and research in the fields of AI.
 
-  - title: Engineering Supervisor
+  - title: Engineering Supervisor (IS)
     company: Coca-Cola
     company_url: ''
     company_logo: CC
