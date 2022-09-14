@@ -22,29 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  # - title: Artificial Intelligence Research Engineer
-  #   company: Center for Artificial Intelligence at KKU
-  #   company_url: ''
-  #   company_logo: cai
-  #   location: Saudi Arabia
-  #   date_start: '2019-07-01'
-  #   date_end: ''
-  #   description: |2-
-  #       Responsibilities include:
-        
-  #       * Research and development.
-  #       * Analysis, modeling and deploying.
-  #       * Develop applications and systems that can help organizations increase efficiency.
-  #       * Perform intensive research & publication.
-        
-  - title: Teaching Assistant
-    company: Universiti Teknologi Malaysia
+  - title: Artificial Intelligence Research Engineer
+    company: Center for Artificial Intelligence at KKU
     company_url: ''
     company_logo: cai
-    location: Malaysia
-    date_start: '2018-10-01'
-    date_end: '2019-06-31'
-    description: hi #Co-supervising master students' projects and research in the fields of AI
+    location: Saudi Arabia
+    date_start: '2019-07-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Research and development.
+        * Analysis, modeling and deploying.
+        * Develop applications and systems that can help organizations increase efficiency.
+        * Perform intensive research & publication.
+        
+  # - title: Teaching Assistant
+  #   company: Universiti Teknologi Malaysia
+  #   company_url: ''
+  #   company_logo: cai
+  #   location: Malaysia
+  #   date_start: '2018-10-01'
+  #   date_end: '2019-06-31'
+  #   description: Co-supervising master students' projects and research in the fields of AI
 
 design:
   columns: '2'
