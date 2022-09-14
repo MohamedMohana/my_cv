@@ -50,10 +50,9 @@ experience:
     company: Coca-Cola
     company_url: ''
     company_logo: CC
-    location: Malaysia
+    location: Saudi Arabia
     date_start: '2017-08-01'
     date_end: '2018-01-01'
-    description: Co-supervising master students' projects and research in the fields of AI
 
 design:
   columns: '2'
