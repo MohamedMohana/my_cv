@@ -43,7 +43,7 @@ abstract: >-
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: [ 
+tags: 
   - solar photovoltaic
   - power prediction
   - residential load
@@ -52,7 +52,7 @@ tags: [
   - ensemble models
   - artificial neural networks
   - correlation
-  - backward feature elimination]
+  - backward feature elimination
 
 # Display this page in the Featured widget?
 featured: true
