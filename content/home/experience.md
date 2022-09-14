@@ -37,14 +37,14 @@ experience:
         * Develop applications and systems that can help organizations increase efficiency.
         * Perform intensive research & publication.
 
-  # - title: Teaching Assistant
-  #   company: Universiti Teknologi Malaysia
-  #   company_url: ''
-  #   company_logo: UTM
-  #   location: Malaysia
-  #   date_start: '2018-10-01'
-  #   date_end: '2019-06-31'
-  #   description: Co-supervising master students' projects and research in the fields of AI.
+  - title: Teaching Assistant
+    company: Universiti Teknologi Malaysia
+    company_url: ''
+    company_logo: UTM
+    location: Malaysia
+    date_start: '2018-10-01'
+    date_end: '2019-06-31'
+    #description: Co-supervising master students' projects and research in the fields of AI.
 
 design:
   columns: '2'
