@@ -40,7 +40,7 @@ experience:
   - title: Teaching Assistant
     company: Universiti Teknologi Malaysia
     company_url: ''
-    company_logo: UTM
+    company_logo: cai
     location: Malaysia
     date_start: '2018-10-01'
     date_end: '2019-06-31'
