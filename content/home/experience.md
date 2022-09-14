@@ -44,7 +44,7 @@ experience:
     location: Malaysia
     date_start: '2018-10-01'
     date_end: '2019-06-31'
-    description: Co-supervising master students' projects and research in the fields of AI
+    description: hi #Co-supervising master students' projects and research in the fields of AI
 
 design:
   columns: '2'
