@@ -42,7 +42,7 @@ experience:
     company_url: ''
     company_logo: UTM
     location: Malaysia
-    date_start: '2019-07-01'
+    date_start: '2018-10-01'
     date_end: ''
     description: Co-supervising master students' projects and research in the fields of AI
 
