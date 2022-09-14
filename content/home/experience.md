@@ -46,6 +46,15 @@ experience:
     date_end: '2019-06-01'
     description: Co-supervising master students' projects and research in the fields of AI
 
+  - title: Engineering Supervisor
+    company: Coca-Cola
+    company_url: ''
+    company_logo: CC
+    location: Malaysia
+    date_start: '2018-10-01'
+    date_end: '2019-06-01'
+    description: Co-supervising master students' projects and research in the fields of AI
+
 design:
   columns: '2'
 ---
