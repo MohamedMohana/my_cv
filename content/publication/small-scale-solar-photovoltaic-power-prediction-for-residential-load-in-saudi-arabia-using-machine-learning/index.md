@@ -9,7 +9,8 @@ authors:
   - Abdelaziz Salah Saidi
   - Salem Alelyani
   - Mohammed J. Alshayeb
-  - Suhail Basha and Ali Eisa Anqi
+  - Suhail Basha 
+  - Ali Eisa Anqi
 
 # Author notes (optional)
 author_notes:
