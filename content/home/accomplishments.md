@@ -47,6 +47,14 @@ item:
     organization_url: https://www.datacamp.com
     title: 'Object-Oriented Programming in R'
     url: ''
+  - certificate_url: https://www.datacamp.com
+    date_end: '2020-12-21'
+    date_start: '2020-07-01'
+    description: ''
+    organization: Rasa
+    organization_url: https://www.datacamp.com
+    title: 'Object-Oriented Programming in R'
+    url: ''
 
 design:
   columns: '2'
