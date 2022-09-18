@@ -12,7 +12,7 @@ weight: 50
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish&shy;ments'
 subtitle:
-
+count: 3
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
@@ -23,7 +23,6 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  count: 3
   - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/EYNAGZPHVB8J
     date_end: ''
     date_start: '2022-06-21'
