@@ -77,7 +77,7 @@ item:
     title: Data Analysis
     url: ''
   
-   - certificate_url: https://drive.google.com/file/d/1B4JXqYs0cZBpPvxuTtPWJCNfpDtD4WGL/view?usp=sharing
+  - certificate_url: https://drive.google.com/file/d/1B4JXqYs0cZBpPvxuTtPWJCNfpDtD4WGL/view?usp=sharing
     date_end: ''
     date_start: '2020-07-19'
     description: ''
