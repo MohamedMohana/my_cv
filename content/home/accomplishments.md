@@ -50,8 +50,8 @@ item:
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'
-    description: 'l'
-    organization: Coursera
+    description: ''
+    organization: rasa
     organization_url: https://rasa.com/
     title: 'Object-Oriented Programming in R'
     url: ''
