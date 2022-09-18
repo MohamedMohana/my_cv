@@ -50,6 +50,15 @@ item:
     title: Artificial Intelligence Engineer (Master Program)
     url: ''
 
+  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/5KSZ8MSV28D9
+    date_end: ''
+    date_start: '2020-08-09'
+    description: ''
+    organization: DeepLearning.AI
+    organization_url: https://www.deeplearning.ai/
+    title: AI fot Medicine 
+    url: ''
+
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'
