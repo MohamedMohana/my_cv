@@ -54,7 +54,7 @@ item:
     date_end: ''
     date_start: '2020-08-09'
     description: ''
-    organization: DeepLearning.AI
+    organization: DeepLearning_AI
     organization_url: https://www.deeplearning.ai/
     title: AI fot Medicine 
     url: ''
