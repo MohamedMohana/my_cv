@@ -27,7 +27,7 @@ item:
     date_end: ''
     date_start: '2022-06-21'
     description: ''
-    organization: 
+    organization: Coursera
     organization_url: https://www.coursera.org
     title: Google Project Management Specialization
     url: ''
@@ -48,11 +48,10 @@ item:
     title: 'Object-Oriented Programming in R'
     url: ''
   - certificate_url: https://www.Rasa.com
-    organization_logo: Rasa
     date_end: '2020-12-21'
     date_start: '2020-07-01'
     description: ''
-    organization: Rasa
+    organization: UTM
     organization_url: https://rasa.com/
     title: 'Object-Oriented Programming in R'
     url: ''
