@@ -31,6 +31,16 @@ item:
     organization_url: https://www.coursera.org
     title: Google Project Management Specialization
     url: ''
+  
+  - certificate_url: https://drive.google.com/file/d/1m4L--1EXOAEm6kuV9rXPoAfc-AfO7IYH/view?usp=sharing
+    date_end: ''
+    date_start: '2021-04-05'
+    description: ''
+    organization: Rasa
+    organization_url: https://rasa.com
+    title: Rasa Developer Certification
+    url: ''
+
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'
@@ -39,6 +49,7 @@ item:
     organization_url: https://www.edx.org
     title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'
@@ -47,6 +58,7 @@ item:
     organization_url: https://www.datacamp.com
     title: 'Object-Oriented Programming in R'
     url: ''
+
   - certificate_url: https://www.Rasa.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'
