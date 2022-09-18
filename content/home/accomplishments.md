@@ -76,6 +76,15 @@ item:
     organization_url: https://www.udacity.com/
     title: Data Analysis
     url: ''
+  
+   - certificate_url: https://drive.google.com/file/d/1B4JXqYs0cZBpPvxuTtPWJCNfpDtD4WGL/view?usp=sharing
+    date_end: ''
+    date_start: '2020-07-19'
+    description: ''
+    organization: CISCO
+    organization_url: https://www.netacad.com/
+    title: IoT
+    url: ''
 
   # - certificate_url: https://www.edx.org
   #   date_end: ''
