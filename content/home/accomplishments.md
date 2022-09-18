@@ -27,7 +27,7 @@ item:
     date_end: ''
     date_start: '2022-06-21'
     description: ''
-    organization: Coursera
+    organization: 
     organization_url: https://www.coursera.org
     title: Google Project Management Specialization
     url: ''
