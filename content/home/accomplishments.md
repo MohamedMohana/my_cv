@@ -52,7 +52,7 @@ item:
     date_start: '2020-07-01'
     description: ''
     organization: Rasa
-    organization_url: https://www.datacamp.com
+    organization_url: https://rasa.com/
     title: 'Object-Oriented Programming in R'
     url: ''
 
