@@ -68,7 +68,7 @@ item:
     title: Machine Learning
     url: ''
 
-    - certificate_url: https://drive.google.com/file/d/1JiOzublXozeK8txg0b0Csq0ALuUnOVAg/view?usp=sharing
+  - certificate_url: https://drive.google.com/file/d/1JiOzublXozeK8txg0b0Csq0ALuUnOVAg/view?usp=sharing
     date_end: ''
     date_start: '2020-03-30'
     description: ''
