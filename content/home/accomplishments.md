@@ -41,6 +41,15 @@ item:
     title: Rasa Developer Certification
     url: ''
 
+  - certificate_url: https://success.simplilearn.com/ca1f41df-1476-4752-8925-815a9c7a27b9
+    date_end: ''
+    date_start: '2020-09-20'
+    description: ''
+    organization: Simplilearn
+    organization_url: https://www.simplilearn.com/
+    title: Artificial Intelligence Engineer (Master Program)
+    url: ''
+
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'
