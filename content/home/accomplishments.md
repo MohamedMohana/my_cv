@@ -59,13 +59,22 @@ item:
     title: AI fot Medicine 
     url: ''
 
-  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/5KSZ8MSV28D9
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/L2LX7KC9NY36
     date_end: ''
     date_start: '2019-12-30'
     description: ''
     organization: Stanford
-    organization_url: https://www.deeplearning.ai/
+    organization_url: https://online.stanford.edu/
     title: Machine Learning
+    url: ''
+
+    - certificate_url: https://drive.google.com/file/d/1JiOzublXozeK8txg0b0Csq0ALuUnOVAg/view?usp=sharing
+    date_end: ''
+    date_start: '2020-03-30'
+    description: ''
+    organization: Udacity
+    organization_url: https://www.udacity.com/
+    title: Data Analysis
     url: ''
 
   # - certificate_url: https://www.edx.org
