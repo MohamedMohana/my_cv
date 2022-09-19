@@ -10,7 +10,7 @@ baseURL: 'https://www.mohdmohana.com' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: ar
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
