@@ -31,14 +31,14 @@ feature:
     name: Raspberry Pi
 headless: true
 weight: 30
-title: Skills
-subtitle: ""
-design:
-  columns: "2"
-  background:
-    text_color_light: true
+# title: Skills
+# subtitle: ""
+# design:
+#   columns: "2"
+#   background:
+#     text_color_light: true
 ---
-<p style="text-align: center;">TECHNICAL SKILLS</p>
+<!-- <p style="text-align: center;">TECHNICAL SKILLS</p>
 <ul style="list-style-type: circle;">
 <li style="text-align: left;">AI</li>
 </ul>
@@ -46,4 +46,4 @@ design:
 feature:
   - icon: python
     icon_pack: fab
-    name: Python
+    name: Python -->
