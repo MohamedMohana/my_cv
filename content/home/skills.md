@@ -44,6 +44,13 @@ feature:
     icon_pack: fab
     name: Raspberry Pi
     
+# Add a new subtitle and feature
+subtitle: SOFT SKILLS
+
+feature:
+  - icon: comments
+    icon_pack: fas
+    name: Communication
     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -66,4 +73,5 @@ feature:
 
 design:
   columns: '2'
+
 ---
