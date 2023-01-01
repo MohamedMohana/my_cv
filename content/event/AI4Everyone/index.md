@@ -1,11 +1,11 @@
 ---
-title: Online Computer Vision Course for Master Students
+title: AI 4 Everyone
 
 
 event: Online Course
 event_url: 
 
-location: King Khalid University
+location: Universiti Teknologi Malaysia
 # address:
 #   street: 
 #   city: 
@@ -18,8 +18,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-10-31'
-date_end: '2022-10-31'
+date: '2020-6-11'
+date_end: '2020-6-11'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
