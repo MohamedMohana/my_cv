@@ -22,6 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Senior Artificial Intelligence Engineer
+    company: AI & Data Management IT, KKU
+    company_url: ''
+    company_logo: it
+    location: Saudi Arabia
+    date_start: '2019-07-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Research and development.
+        * Analysis, modeling and deploying.
+        * Develop applications and systems that can help organizations increase efficiency.
+        * Perform intensive research and publication.
+
   - title: Artificial Intelligence Research Engineer
     company: Center for Artificial Intelligence at KKU
     company_url: ''
