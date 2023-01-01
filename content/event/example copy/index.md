@@ -5,14 +5,14 @@ event: KKU it
 event_url: https://example.org
 
 location: University Theater | King Khalid University
-address:
-  street: []
-  city: Abha
-  region: Aseer
-  postcode: []
-  country: Saudi Arabia
+# address:
+#   street: []
+#   city: Abha
+#   region: Aseer
+#   postcode: []
+#   country: Saudi Arabia
 
-summary: []
+# summary: []
 abstract: 'Continuing to cooperate with government agencies to spread the culture of digital transformation and develop their leaders. I held an artificial intelligence course for leaders. At the University City Theater in Al-Qaraa'
 
 # Talk start and end times.
@@ -49,13 +49,13 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+# projects:
+#   - example
 ---
