@@ -6,13 +6,13 @@ event_url: https://example.org
 
 location: University Theater | King Khalid University
 address:
-  street: 
+  street: ''
   city: Abha
   region: Aseer
-  postcode: 
+  postcode: ''
   country: Saudi Arabia
 
-summary: 
+summary: ''
 abstract: 'Continuing to cooperate with government agencies to spread the culture of digital transformation and develop their leaders. I held an artificial intelligence course for leaders. At the University City Theater in Al-Qara’a'
 
 # Talk start and end times.
