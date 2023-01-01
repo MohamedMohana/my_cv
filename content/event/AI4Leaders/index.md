@@ -1,10 +1,10 @@
 ---
-title:  Optimization Approach to a Block of Layers and Derivative Free Optimization
+title:  Artificial Intelligence for Leaders
 
-event: Eastern European Conference on Computer Vision (EECVC19)
-event_url: https://eecvc.com/speakers-2019/
+event: Digital Transformation
+event_url: https://www.kku.edu.sa
 
-location: Odessa, Ukraine
+location: University Theater | King Khalid University
 # address:
 #   street: 
 #   city: 
@@ -13,12 +13,12 @@ location: Odessa, Ukraine
 #   country: 
 
 summary: 
-abstract: I present a new view to the output activations of a block of layers in deep neural networks. In particular, we view the output activation of a linear operator, convolutional or fully connected, followed by a non-linearity, and followed by another linear operator as an approximate solution to a certain convex optimization problem. We show that replacing layers with optimization layers as solvers improve performance in different settings.
+abstract: Continuing to cooperate with government agencies to spread the culture of digital transformation and develop their leaders. I held an artificial intelligence course for leaders. At the University City Theater in Al-Qara'a.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2019-07-07'
-date_end: '2019-07-09'
+date: '2022-10-28'
+date_end: '2022-06-30'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -41,8 +41,8 @@ links:
 #   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "https://drive.google.com/file/d/18FH05IYmhEVlG6WnTK1M8GyasuU_lCDF/view"
-url_video: "https://www.youtube.com/watch?v=VLlmWDG_AOQ"
+url_slides: ""
+url_video: ""
 
 # # Markdown Slides (optional).
 # #   Associate this talk with Markdown slides.
