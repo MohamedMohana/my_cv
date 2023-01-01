@@ -13,7 +13,7 @@ address:
   country: Saudi Arabia
 
 summary: ''
-abstract: 'Continuing to cooperate with government agencies to spread the culture of digital transformation and develop their leaders. I held an artificial intelligence course for leaders. At the University City Theater in Al-Qara’a'
+abstract: 'Continuing to cooperate with government agencies to spread the culture of digital transformation and develop their leaders. I held an artificial intelligence course for leaders. At the University City Theater in Al-Qaraa'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
