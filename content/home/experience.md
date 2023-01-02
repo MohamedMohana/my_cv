@@ -33,7 +33,7 @@ experience:
         Responsibilities include:
         
         * Chatbot development.
-        * Applying AI model for destion making. 
+        * Applying AI model for decision making. 
         * Data sharing policies.
         * Educating society about Artificial Intelligence.
 
