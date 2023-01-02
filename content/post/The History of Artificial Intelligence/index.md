@@ -1,7 +1,9 @@
 ---
 title: The History of Artificial Intelligence
 subtitle: From its beginnings to the present day.
-
+categories:
+  - English
+  
 # Summary for listings and search engines
 summary: This blog post covers the history of artificial intelligence (AI) from its beginnings up until the present day. It includes a timeline of key events and milestones in the development of AI, as well as a discussion of current trends and future directions for the field.
 
