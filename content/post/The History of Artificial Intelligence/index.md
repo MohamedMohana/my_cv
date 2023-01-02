@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**qbi**](https://qbi.uq.edu.au/files/40697/The-Brain-Intelligent-Machines-AI-timeline.jpg)'
   focal_point: ''
   placement: 2
   preview_only: false
@@ -62,7 +62,7 @@ Expert systems were created by inputting large amounts of data and rules into a 
 
 However, the success of expert systems was also limited by their reliance on a large amount of explicit knowledge being inputted into the system. If the system did not have the necessary data or rules, it was unable to make decisions or provide recommendations. This led to a shift in focus towards more flexible and adaptable AI systems that could learn and improve over time.
 
-## The Machine Learning Revolution: 1990s-2000s
+## The Era of Machine Learning: 1990s-2000s
 
 In the 1990s and 2000s, there was a resurgence of interest in AI, driven in large part by advances in machine learning. Machine learning is a subset of AI that involves the use of algorithms to automatically improve the performance of a system based on data.
 
@@ -70,24 +70,23 @@ One of the key developments in machine learning was the advent of neural network
 
 Other notable developments in machine learning during this time included the rise of support vector machines (SVMs) and decision trees, which are algorithms that can be used to classify and predict outcomes based on data inputs. These and other machine learning techniques have been applied to a wide range of applications, including natural language processing, financial forecasting, and even the discovery of new drugs.
 
+Another important development during this time was the rise of "big data," or extremely large datasets that could be analyzed to extract useful insights and patterns. Machine learning algorithms were particularly well-suited to working with big data, and the availability of large datasets helped to drive progress in the field.
+
 ## Current Trends and Future Directions
 
 Today, AI is being used in a wide range of applications, from self-driving cars and personal assistants to medical diagnosis and financial forecasting. Some of the current trends and developments in the field include:
 
-- Deep learning: This is a type of machine learning that involves the use of neural networks with many layers, which can learn and adapt to data inputs in a more flexible and sophisticated manner. Deep learning has been used to achieve significant advances in fields such as image and speech recognition, and it is expected to play an increasingly important role in the future of AI.
+- Deep learning:  subfield of machine learning that uses multiple layers of artificial "neurons" to learn and analyze data. Deep learning has been successful in a number of applications, including image and speech recognition, and it has the potential to revolutionize a wide range of industries.
 - Natural language processing: This is the ability of a machine to understand and generate human-like language, which has applications in areas such as language translation and voice recognition. Recent advances in natural language processing have made it possible for machines to understand and respond to complex and nuanced human language, and it is expected that this technology will continue to improve in the future.
 - Robotics: AI is being used to create robots that can perform a wide range of tasks, from manufacturing and assembly to search and rescue operations. The development of autonomous robots that can adapt to changing environments and make decisions based on data inputs is a major focus of current research, and it is expected that this technology will have significant impacts in a variety of fields.
 - Ethical and societal implications: As AI becomes increasingly integrated into our lives, there are also important questions being raised about the ethical and societal implications of this technology. Issues
 
-## The 2010s and Beyond
+Looking to the future, it is clear that AI will continue to play a major role in our lives and the way we live and work. Some potential future developments in the field include:
 
-In the 2010s, AI continued to make significant strides in a variety of fields, from healthcare and finance to transportation and gaming. Some of the notable developments during this time include:
-
-- The rise of virtual assistants: Virtual assistants such as Apple's Siri, Amazon's Alexa, and Google's Assistant became widely available in the 2010s, and they have transformed the way we interact with technology. These assistants use natural language processing to understand and respond to voice commands, and they can perform a wide range of tasks such as setting reminders, answering questions, and controlling smart home devices.
-- The emergence of self-driving cars: In the 2010s, several companies began developing self-driving cars, which use a combination of sensors, machine learning, and AI to navigate roads and make decisions in real-time. While these vehicles are still in the early stages of development, they have the potential to revolutionize transportation and reduce the number of accidents caused by human error.
-- The development of AI in healthcare: AI has the potential to transform healthcare by enabling the early detection of diseases, improving medical diagnoses, and reducing the cost and time required for certain tasks. In the 2010s, AI-powered systems were developed that can analyze medical images, predict patient outcomes, and even assist with surgery.
-- The rise of artificial general intelligence: While most current AI systems are designed to perform specific tasks, there is ongoing research into the development of artificial general intelligence (AGI), which is the ability of a machine to learn and adapt to perform a wide range of tasks. While AGI is still considered to be a distant goal, some experts believe that it may eventually be possible to create machines that are as intelligent as humans.
-Looking to the future, it is clear that AI will continue to play an increasingly important role in our lives. While there are certainly challenges and ethical considerations to be addressed, the potential benefits of AI are vast and varied, and it is likely that we will see many more exciting developments in the field in the years to come.
+- Autonomous vehicles: Self-driving cars and other vehicles that use AI to navigate and make decisions without human intervention.
+Personal assistants: AI-powered assistants that can help with tasks such as scheduling, email management, and online shopping.
+- Medical diagnosis: The use of AI to analyze medical images and data to assist with diagnosis and treatment planning.
+- Financial forecasting: The use of AI to analyze financial data and make predictions about market trends and investment opportunities.
 
 ## Conclusion
 
