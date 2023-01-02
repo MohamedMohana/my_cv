@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Senior Artificial Intelligence Engineer
-    company: AI & Data Management | IT | KKU
+    company: AI & Data Management, IT, KKU
     company_url: ''
     company_logo: it
     location: Saudi Arabia
@@ -32,10 +32,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Research and development.
-        * Analysis, modeling and deploying.
-        * Develop applications and systems that can help organizations increase efficiency.
-        * Perform intensive research and publication.
+        * Chatbot development.
+        * Applying AI model for destion making. 
+        * Data sharing policies.
+        * Educating society about Artificial Intelligence.
 
   - title: Artificial Intelligence Research Engineer
     company: Center for Artificial Intelligence at KKU
