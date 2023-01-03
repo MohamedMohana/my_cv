@@ -36,7 +36,6 @@ tags:
   - History
 
 categories:
-  - Arabic
   - Technology
   - Artificial Intelligence
 ---

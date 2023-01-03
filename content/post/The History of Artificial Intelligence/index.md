@@ -38,7 +38,6 @@ tags:
 categories:
   - Technology
   - Artificial Intelligence
-  - Enlish
 ---
 
 ## Overview
