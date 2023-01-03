@@ -38,7 +38,7 @@ tags:
 categories:
   - Technology
   - Artificial Intelligence
-  - Arabic
+  - Enlish
 ---
 
 ## Overview
