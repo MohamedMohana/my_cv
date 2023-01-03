@@ -1,7 +1,10 @@
 ---
-title: تاريخ الذكاء الاصطناعي
+title: My Post
 categories:
   - Arabic
+---
+---
+title: تاريخ الذكاء الاصطناعي
 subtitle: من بدايته إلى يومنا هذا.
 
 # Summary for listings and search engines
