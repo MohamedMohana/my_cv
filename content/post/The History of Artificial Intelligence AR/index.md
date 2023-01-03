@@ -1,5 +1,4 @@
 ---
-languages: ["ar"]
 title: تاريخ الذكاء الاصطناعي
 subtitle: من بدايته إلى يومنا هذا.
 
@@ -11,7 +10,7 @@ projects: []
 
 # Date published
 date: '2023-01-02T00:00:00Z'
-
+languages: ["ar"]
 # Date updated
 lastmod: '2023-01-02T00:00:00Z'
 

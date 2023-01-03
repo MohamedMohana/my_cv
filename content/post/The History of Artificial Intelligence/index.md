@@ -1,5 +1,4 @@
 ---
-languages: ["en"]
 title: The History of Artificial Intelligence
 subtitle: From its beginnings to the present day.
 # Summary for listings and search engines
@@ -10,6 +9,7 @@ projects: []
 
 # Date published
 date: '2023-01-02T00:00:00Z'
+languages: ["en"]
 
 # Date updated
 lastmod: '2023-01-02T00:00:00Z'
