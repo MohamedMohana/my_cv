@@ -78,12 +78,12 @@ Today, AI is being used in a wide range of applications, from self-driving cars 
 - Deep learning:  subfield of machine learning that uses multiple layers of artificial "neurons" to learn and analyze data. Deep learning has been successful in a number of applications, including image and speech recognition, and it has the potential to revolutionize a wide range of industries.
 - Natural language processing: This is the ability of a machine to understand and generate human-like language, which has applications in areas such as language translation and voice recognition. Recent advances in natural language processing have made it possible for machines to understand and respond to complex and nuanced human language, and it is expected that this technology will continue to improve in the future.
 - Robotics: AI is being used to create robots that can perform a wide range of tasks, from manufacturing and assembly to search and rescue operations. The development of autonomous robots that can adapt to changing environments and make decisions based on data inputs is a major focus of current research, and it is expected that this technology will have significant impacts in a variety of fields.
-- Ethical and societal implications: As AI becomes increasingly integrated into our lives, there are also important questions being raised about the ethical and societal implications of this technology. Issues
+- Ethical and societal implications: As AI becomes increasingly integrated into our lives, there are also important questions being raised about the ethical and societal implications of this technology.
 
 Looking to the future, it is clear that AI will continue to play a major role in our lives and the way we live and work. Some potential future developments in the field include:
 
 - Autonomous vehicles: Self-driving cars and other vehicles that use AI to navigate and make decisions without human intervention.
-Personal assistants: AI-powered assistants that can help with tasks such as scheduling, email management, and online shopping.
+- Personal assistants: AI-powered assistants that can help with tasks such as scheduling, email management, and online shopping.
 - Medical diagnosis: The use of AI to analyze medical images and data to assist with diagnosis and treatment planning.
 - Financial forecasting: The use of AI to analyze financial data and make predictions about market trends and investment opportunities.
 
