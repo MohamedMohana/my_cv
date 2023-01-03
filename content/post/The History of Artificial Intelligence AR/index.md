@@ -1,9 +1,4 @@
 ---
-title: My Post
-categories:
-  - Arabic
----
----
 title: تاريخ الذكاء الاصطناعي
 subtitle: من بدايته إلى يومنا هذا.
 
@@ -41,6 +36,7 @@ tags:
   - History
 
 categories:
+  - Arabic
   - Technology
   - Artificial Intelligence
 ---
