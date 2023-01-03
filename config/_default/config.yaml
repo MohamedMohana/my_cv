@@ -55,7 +55,6 @@ taxonomies:
   category: categories
   publication_type: publication_types
   author: authors
-  language: "languages"
 markup:
   _merge: deep
 related:

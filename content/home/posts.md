@@ -17,7 +17,6 @@ content:
   filters:
     folders:
       - post
-    taxonomy: languages
     tag: ''
     category: ''
     publication_type: ''
