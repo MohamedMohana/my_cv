@@ -38,6 +38,7 @@ tags:
 categories:
   - Technology
   - Artificial Intelligence
+  - Arabic
 ---
 
 ## Overview
