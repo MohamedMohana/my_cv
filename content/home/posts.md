@@ -17,10 +17,8 @@ content:
   filters:
     folders:
       - post
-    categories:
-      - Arabic
     tag: ''
-    category: ''
+    category: 'Arabic'
     publication_type: ''
     author: ''
     exclude_featured: false
