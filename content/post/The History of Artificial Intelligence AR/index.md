@@ -1,5 +1,7 @@
 ---
 title: تاريخ الذكاء الاصطناعي
+categories:
+  - Arabic
 subtitle: من بدايته إلى يومنا هذا.
 
 # Summary for listings and search engines

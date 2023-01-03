@@ -17,6 +17,8 @@ content:
   filters:
     folders:
       - post
+    categories:
+      - Arabic
     tag: ''
     category: ''
     publication_type: ''
