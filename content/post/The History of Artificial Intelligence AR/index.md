@@ -11,6 +11,8 @@ projects: []
 # Date published
 date: '2023-01-02T00:00:00Z'
 languages: ["ar"]
+html_direction: rtl
+
 # Date updated
 lastmod: '2023-01-02T00:00:00Z'
 
