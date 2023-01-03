@@ -17,7 +17,7 @@ content:
   filters:
     folders:
       - post
-    language: ar
+    taxonomy: languages
     tag: ''
     category: ''
     publication_type: ''
