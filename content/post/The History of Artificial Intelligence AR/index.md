@@ -42,9 +42,9 @@ categories:
 
 ## Overview
 
-Artificial intelligence (AI) is a rapidly growing field that has the potential to revolutionize many aspects of our lives. From self-driving cars and personal assistants to medical diagnosis and financial forecasting, AI is used in many applications. But where did this technology come from, and how has it evolved over time?
+الذكاء الاصطناعي (AI) هو مجال سريع النمو ولديه القدرة على إحداث ثورة في العديد من جوانب حياتنا. يستخدم الذكاء الاصطناعي في العديد من التطبيقات ، من السيارات ذاتية القيادة والمساعدات الشخصية إلى التشخيص الطبي والتنبؤ المالي. ولكن من أين أتت هذه التكنولوجيا ، وكيف تطورت بمرور الوقت؟
 
-In this blog post, we will take a look at the history of AI, starting with its earliest roots and tracing its development through to the present day. We will highlight some of the key events and milestones in the field, and discuss some of the current trends and future directions for AI.
+في منشور المدونة هذا ، سنلقي نظرة على تاريخ الذكاء الاصطناعي ، بدءًا من جذوره الأولى وتتبع تطوره حتى يومنا هذا. سنسلط الضوء على بعض الأحداث والمعالم الرئيسية في هذا المجال ونناقش بعض الاتجاهات الحالية والتوجهات المستقبلية للذكاء الاصطناعي.
 
 ## The Early Years: 1950s-1960s
 
