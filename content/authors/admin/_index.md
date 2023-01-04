@@ -74,6 +74,14 @@ highlight_name: true
 I am an AI Engineer with a strong background in computer systems, artificial intelligence, control, and electronics. I have obtained a Master of Engineering degree in Control and Automation using AI, as well as a Master of AI Engineering, and have been recognized for my research efforts with the best master research award from IEEE Malaysia. Throughout my career, I have gained hands-on experience in solving real-life industrial problems using IoT and AI-controlled robots, including the development of a UAV with an autopilot controller and a cutting-edge IoT and computer vision device for security purposes. In addition, I have focused on applying AI in the fields of renewable energy, healthcare, and natural language processing, and have the ability to take a project from research to deployment, creating AI-based solutions and products for practical, real-world situations.
 </p>
 
+<h3>Honours and Awards</h3>
+<ul>
+  <li>Best Master Research Award: IEEE Malaysia (2019)</li>
+  <li>Dean's List: Universiti Teknologi Malaysia (2018)</li>
+  <li>First Place in National Robotics Competition: Ministry of Science, Technology, and Innovation (2017)</li>
+</ul>
+
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 
