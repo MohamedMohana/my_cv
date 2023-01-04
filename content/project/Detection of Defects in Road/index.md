@@ -32,10 +32,10 @@ url_video: ''
 slides: ""
 ---
 
-In this project, we developed a deep learning model to detect defects in roads, such as cracks and potholes. The model was trained on a large dataset of images of roads with and without defects, and was able to accurately identify defects in new images. The goal of this project was to improve road safety and maintenance by automating the process of defect detection.
+This project aimed to improve road safety and maintenance by automating the defect detection process. In this project, we developed a deep-learning model to detect road defects, such as cracks and potholes. The model was trained on a large dataset of images of roads with and without flaws and could identify weaknesses in new photos accurately.
 
-We used a convolutional neural network (CNN) for our model, which is a type of neural network well-suited for image classification tasks. We used the [Keras](https://keras.io/) library to build and train the model, and [TensorFlow](https://www.tensorflow.org) as the backend.
+We used a convolutional neural network (CNN) for our model, a type of neural network well-suited for image classification tasks. We used the [Keras](https://keras.io/) library to build and train the model and [TensorFlow](https://www.tensorflow.org) as the backend.
 
-The model achieved an accuracy of 95% on the test set, and was able to correctly identify defects in roads with a high degree of reliability. We also developed a web-based application that allowed users to upload images of roads and receive predictions from the model in real-time.
+The model achieved an accuracy of 95% on the test set and was able to correctly identify defects in roads with a high degree of reliability. We also developed an automated application that allowed stakeholders to monitor the streets with real-time reports about the exact location of the road damage, date, time, type of classification, and the accuracy rate so they can directly take action.
 
-Overall, this project demonstrated the effectiveness of deep learning in detecting defects in roads, and has the potential to greatly improve road safety and maintenance efforts.
+Overall, this project demonstrated the effectiveness of deep learning in detecting road defects and has the potential to improve road safety and maintenance efforts significantly.
