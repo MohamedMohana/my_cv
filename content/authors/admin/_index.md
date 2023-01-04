@@ -62,3 +62,7 @@ I am an AI Engineer with a strong background in computer systems, artificial int
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
+{{< profile >}}
+
+  {{< honors_and_awards >}}
+{{< /profile >}}
