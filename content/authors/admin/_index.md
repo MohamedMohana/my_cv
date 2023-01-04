@@ -79,19 +79,64 @@ I am an AI Engineer with a strong background in computer systems, artificial int
 <h3>Honours and Awards</h3>
 <ul>
   <li>
-    <span style="font-size: larger;">Best Master Research Award</span><br>
-    <span style="font-size: smaller;">IEEE Malaysia</span><br>
-    <span style="font-size: smaller;">2019</span>
+    <h4>Best Master Research Award</h4>
+    <p>IEEE Malaysia</p>
+    <p>2019</p>
   </li>
   <li>
-    <span style="font-size: larger;">Dean's List</span><br>
-    <span style="font-size: smaller;">Universiti Teknologi Malaysia</span><br>
-    <span style="font-size: smaller;">2018</span>
+    <h4>Dean's List</h4>
+    <p>Universiti Teknologi Malaysia</p>
+    <p>2018</p>
   </li>
   <li>
-    <span style="font-size: larger;">First Place in National Robotics Competition</span><br>
-    <span style="font-size: smaller;">Ministry of Science, Technology, and Innovation</span><br>
-    <span style="font-size: smaller;">2017</span>
+    <h4>First Place in National Robotics Competition</h4>
+    <p>Ministry of Science, Technology, and Innovation</p>
+    <p>2017</p>
+  </li>
+  <li>
+    <h4>Best Research Project Awards</h4>
+    <p>IEEE Malaysia Section</p>
+    <p>2019</p>
+  </li>
+  <li>
+    <h4>Innovate Malaysia Design Competition</h4>
+    <p>ViTrox Corporation Berhad</p>
+    <p>2018</p>
+  </li>
+  <li>
+    <h4>Competent Communicator</h4>
+    <p>Toastmaster Global</p>
+    <p>2019</p>
+  </li>
+  <li>
+    <h4>Best Capstone Project Lab</h4>
+    <p>Universiti Teknologi Malaysia</p>
+    <p>2017</p>
+  </li>
+  <li>
+    <h4>Degree Dean List Student Award</h4>
+    <p>Universiti Teknologi Malaysia</p>
+    <p>2018</p>
+  </li>
+  <li>
+    <h4>Master Dean List Student Award</h4>
+    <p>Universiti Teknologi Malaysia</p>
+    <p>2019</p>
+  </li>
+  <li>
+    <h4>Best Computer Vision Project</h4>
+    <p>Fihm.ai</p>
+    <p>2020</p>
+  </li>
+  <li>
+    <h4>Digital Innovation Award in Digital Research</h4>
+    <p>Ministry of Communications and Information Technology of Saudi Arabia</p>
+    <p>2022</p>
+  </li>
+  <li>
+    <h4>Top 7% on StackOverflow</h4>
+    <p>Stack Overflow</p>
+    <p>2022</p>
   </li>
 </ul>
 
