@@ -76,13 +76,25 @@ I am an AI Engineer with a strong background in computer systems, artificial int
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-<h3>Honours and Awards</h3>
+<!-- <h3>Honours and Awards</h3>
 <ul>
   <li><strong>Best Master Research Award</strong>: <span style="font-size: smaller">IEEE Malaysia</span> (2019)</li>
   <li><strong>Dean's List</strong>: <span style="font-size: smaller">Universiti Teknologi Malaysia</span> (2018)</li>
   <li><strong>First Place in National Robotics Competition</strong>: <span style="font-size: smaller">Ministry of Science, Technology, and Innovation</span> (2017)</li>
-</ul>
+</ul> -->
 
+<h3>Honours and Awards</h3>
+<ul>
+  <li>Best Research Project Awards: IEEE Malaysia Section (2019)</li>
+  <li>Innovate Malaysia Design Competition: ViTrox Corporation Berhad (2018)</li>
+  <li>Competent Communicator: Toastmaster Global (2019)</li>
+  <li>Best Capstone Project Lab: Universiti Teknologi Malaysia (2017)</li>
+  <li>Degree Dean List Student Award: Universiti Teknologi Malaysia (2018)</li>
+  <li>Master Dean List Student Award: Universiti Teknologi Malaysia (2019)</li>
+  <li>Best Computer Vision Project: Fihm.ai (2020)</li>
+  <li>Digital Innovation Award in Digital Research: Ministry of Communications and Information Technology of Saudi Arabia (2022)</li>
+  <li>Top 7% on StackOverflow: Stack Overflow (2022)</li>
+</ul>
 
 
 
