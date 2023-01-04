@@ -44,6 +44,13 @@ education:
     - course: BE in Mechatronics, Robotics, and Automation (3.6/4.0)
       institution: Universiti Teknologi Malaysia
       year: 2018
+honors_and_awards:
+  - title: Best Master Research Award
+    institution: IEEE Malaysia
+    year: 2020
+  - title: Dean's List
+    institution: Universiti Teknologi Malaysia
+    year: 2018-2019
 email: mmuhanna@kku.edu.sa
 superuser: true
 highlight_name: true
