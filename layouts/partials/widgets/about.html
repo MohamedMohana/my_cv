@@ -1,0 +1,12 @@
+{{% raw %}}
+<h2>Honours and Awards</h2>
+<ul>
+  {{% for h in honours %}}
+  <li>
+    <h3>{{h.award}}</h3>
+    <p>{{h.institution}} ({{h.year}})</p>
+    <p>{{h.description}}</p>
+  </li>
+  {{% endfor %}}
+</ul>
+{{% /raw %}}
