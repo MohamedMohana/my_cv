@@ -94,13 +94,26 @@ I am an AI Engineer with a strong background in computer systems, artificial int
 
 <h3>Honours and Awards</h3>
 <ul>
-  <li>Best Research Project Awards <span style="font-size: 60%;">- IEEE Malaysia Section (2019)</span> <span style="font-size: 60%;">2019</span></li>
-  <li>Innovate Malaysia Design Competition <span style="font-size: smaller;">- ViTrox Corporation Berhad</span> <span style="font-size: smaller;">2018</span></li>
-  <li>Competent Communicator <span style="font-size: smaller;">- Toastmaster Global</span> <span style="font-size: smaller;">2019</span></li>
-  <li>Best Capstone Project Lab <span style="font-size: smaller;">- Universiti Teknologi Malaysia</span> <span style="font-size: smaller;">2017</span></li>
-  <li>Degree Dean List Student Award <span style="font-size: smaller;">- Universiti Teknologi Malaysia</span> <span style="font-size: smaller;">2018</span></li>
-  <li>Master Dean List Student Award <span style="font-size: smaller;">- Universiti Teknologi Malaysia</span> <span style="font-size: smaller;">2019</span></li>
-  <li>Best Computer Vision Project <span style="font-size: smaller;">- Fihm.ai</span> <span style="font-size: smaller;">2020</span></li>
-  <li>Digital Innovation Award in Digital Research <span style="font-size: smaller;">- MCIT</span> <span style="font-size: smaller;">2022</span></li>
-  <li>Top 7% on StackOverflow <span style="font-size: smaller;">- Stack Overflow</span> <span style="font-size: smaller;">2022</span></li>
+
+  <li>Digital Innovation Award in Digital Research <span style="font-size:  70%;">- MCIT (2022)</span>
+
+  <li>Top 7% on StackOverflow <span style="font-size:  70%;">- Stack Overflow (2022)</span> 
+
+
+  <li>Best Computer Vision Project <span style="font-size:  70%;">- Fihm.ai (2020)</span> 
+
+
+  <li>Best Research Project Awards <span style="font-size: 70%;">- IEEE Malaysia Section (2019)</span> 
+
+  <li>Competent Communicator <span style="font-size:  70%;">- Toastmaster Global (2019)</span> 
+
+  <li>Master Dean List Student Award <span style="font-size:  70%;">- Universiti Teknologi Malaysia (2019)</span> 
+
+  <li>Degree Dean List Student Award <span style="font-size:  70%;">- Universiti Teknologi Malaysia (2018)</span>
+
+
+  <li>Innovate Malaysia Design Competition <span style="font-size:  70%;">- ViTrox Corporation Berhad (2018)</span>
+
+  
+  <li>Best Capstone Project Lab <span style="font-size:  70%;">- Universiti Teknologi Malaysia (2017)</span>
 </ul>
