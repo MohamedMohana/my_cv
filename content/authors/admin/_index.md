@@ -94,7 +94,7 @@ I am an AI Engineer with a strong background in computer systems, artificial int
 
 <h3>Honours and Awards</h3>
 <ul>
-  <li>Best Research Project Awards <span style="font-size: 50%;">- IEEE Malaysia Section</span> <span style="font-size: 50%;">2019</span></li>
+  <li>Best Research Project Awards <span style="font-size: 60%;">- IEEE Malaysia Section (2019)</span> <span style="font-size: 60%;">2019</span></li>
   <li>Innovate Malaysia Design Competition <span style="font-size: smaller;">- ViTrox Corporation Berhad</span> <span style="font-size: smaller;">2018</span></li>
   <li>Competent Communicator <span style="font-size: smaller;">- Toastmaster Global</span> <span style="font-size: smaller;">2019</span></li>
   <li>Best Capstone Project Lab <span style="font-size: smaller;">- Universiti Teknologi Malaysia</span> <span style="font-size: smaller;">2017</span></li>
