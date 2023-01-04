@@ -28,9 +28,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/mohdmohana/
-  - icon: trophy
-    icon_pack: fas
-    link: /honours-and-awards/
 organizations:
   - name: King Khalid University
     url: https://www.kku.edu.sa/
