@@ -47,19 +47,19 @@ education:
     - course: BE in Mechatronics, Robotics, and Automation (3.6/4.0)
       institution: Universiti Teknologi Malaysia
       year: 2018
-honours:
-  - award: Best Master Research Award
-    institution: IEEE Malaysia
-    year: 2019
-    description: Awarded for my thesis on the application of machine learning in industrial control systems.
-  - award: Dean's List
-    institution: Universiti Teknologi Malaysia
-    year: 2018
-    description: Recognition for achieving a GPA of 3.9 or higher in my coursework.
-  - award: First Place in National Robotics Competition
-    institution: Ministry of Science, Technology, and Innovation
-    year: 2017
-    description: Won first place for my team's design and demonstration of a humanoid robot.
+# honours:
+#   - award: Best Master Research Award
+#     institution: IEEE Malaysia
+#     year: 2019
+#     description: Awarded for my thesis on the application of machine learning in industrial control systems.
+#   - award: Dean's List
+#     institution: Universiti Teknologi Malaysia
+#     year: 2018
+#     description: Recognition for achieving a GPA of 3.9 or higher in my coursework.
+#   - award: First Place in National Robotics Competition
+#     institution: Ministry of Science, Technology, and Innovation
+#     year: 2017
+#     description: Won first place for my team's design and demonstration of a humanoid robot.
 # honors_and_awards:
 #   - title: Best Master Research Award
 #     institution: IEEE Malaysia

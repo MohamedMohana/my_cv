@@ -1,6 +1,3 @@
----
-title: Honours and Awards
----
 
 {{% section "Best Master Research Award" %}}
 Awarded for my thesis on the application of machine learning in industrial control systems.
