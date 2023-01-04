@@ -28,6 +28,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/mohdmohana/
+  - icon: trophy
+    icon_pack: fas
+    link: /honours-and-awards/
 organizations:
   - name: King Khalid University
     url: https://www.kku.edu.sa/
@@ -68,14 +71,6 @@ email: mmuhanna@kku.edu.sa
 superuser: true
 highlight_name: true
 ---
-{{% timeline %}}
-  {{% for h in honours %}}
-  - date: {{h.year}}
-    title: {{h.award}}
-    description: {{h.institution}}
-    {{h.description}}
-  {{% endfor %}}
-{{% /timeline %}}
 
 <p align="justify">
 I am an AI Engineer with a strong background in computer systems, artificial intelligence, control, and electronics. I have obtained a Master of Engineering degree in Control and Automation using AI, as well as a Master of AI Engineering, and have been recognized for my research efforts with the best master research award from IEEE Malaysia. Throughout my career, I have gained hands-on experience in solving real-life industrial problems using IoT and AI-controlled robots, including the development of a UAV with an autopilot controller and a cutting-edge IoT and computer vision device for security purposes. In addition, I have focused on applying AI in the fields of renewable energy, healthcare, and natural language processing, and have the ability to take a project from research to deployment, creating AI-based solutions and products for practical, real-world situations.
