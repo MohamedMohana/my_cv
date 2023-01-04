@@ -94,13 +94,13 @@ I am an AI Engineer with a strong background in computer systems, artificial int
 
 <h3>Honours and Awards</h3>
 <ul>
-  <li>Best Research Project Awards: <span class="small-text">IEEE Malaysia Section</span> <span class="small-text">2019</span></li>
-  <li>Innovate Malaysia Design Competition: <span class="small-text">ViTrox Corporation Berhad</span> <span class="small-text">2018</span></li>
-  <li>Competent Communicator: <span class="small-text">Toastmaster Global</span> <span class="small-text">2019</span></li>
-  <li>Best Capstone Project Lab: <span class="small-text">Universiti Teknologi Malaysia</span> <span class="small-text">2017</span></li>
-  <li>Degree Dean List Student Award: <span class="small-text">Universiti Teknologi Malaysia</span> <span class="small-text">2018</span></li>
-  <li>Master Dean List Student Award: <span class="small-text">Universiti Teknologi Malaysia</span> <span class="small-text">2019</span></li>
-  <li>Best Computer Vision Project: <span class="small-text">Fihm.ai</span> <span class="small-text">2020</span></li>
-  <li>Digital Innovation Award in Digital Research: <span class="small-text">Ministry of Communications and Information Technology of Saudi Arabia</span> <span class="small-text">2022</span></li>
-  <li>Top 7% on StackOverflow: <span class="small-text">Stack Overflow</span> <span class="small-text">2022</span></li>
+  <li>Best Research Project Awards: <span style="font-size: smaller;">IEEE Malaysia Section</span> <span style="font-size: smaller;">2019</span></li>
+  <li>Innovate Malaysia Design Competition: <span style="font-size: smaller;">ViTrox Corporation Berhad</span> <span style="font-size: smaller;">2018</span></li>
+  <li>Competent Communicator: <span style="font-size: smaller;">Toastmaster Global</span> <span style="font-size: smaller;">2019</span></li>
+  <li>Best Capstone Project Lab: <span style="font-size: smaller;">Universiti Teknologi Malaysia</span> <span style="font-size: smaller;">2017</span></li>
+  <li>Degree Dean List Student Award: <span style="font-size: smaller;">Universiti Teknologi Malaysia</span> <span style="font-size: smaller;">2018</span></li>
+  <li>Master Dean List Student Award: <span style="font-size: smaller;">Universiti Teknologi Malaysia</span> <span style="font-size: smaller;">2019</span></li>
+  <li>Best Computer Vision Project: <span style="font-size: smaller;">Fihm.ai</span> <span style="font-size: smaller;">2020</span></li>
+  <li>Digital Innovation Award in Digital Research: <span style="font-size: smaller;">Ministry of Communications and Information Technology of Saudi Arabia</span> <span style="font-size: smaller;">2022</span></li>
+  <li>Top 7% on StackOverflow: <span style="font-size: smaller;">Stack Overflow</span> <span style="font-size: smaller;">2022</span></li>
 </ul>
