@@ -67,13 +67,8 @@ honours:
 email: mmuhanna@kku.edu.sa
 superuser: true
 highlight_name: true
-{{% section "honours" %}}
-  {{% for h in honours %}}
-  - {{h.award}}: {{h.institution}} ({{h.year}})
-    {{h.description}}
-  {{% endfor %}}
-{{% /section %}}
 ---
+
 <p align="justify">
 I am an AI Engineer with a strong background in computer systems, artificial intelligence, control, and electronics. I have obtained a Master of Engineering degree in Control and Automation using AI, as well as a Master of AI Engineering, and have been recognized for my research efforts with the best master research award from IEEE Malaysia. Throughout my career, I have gained hands-on experience in solving real-life industrial problems using IoT and AI-controlled robots, including the development of a UAV with an autopilot controller and a cutting-edge IoT and computer vision device for security purposes. In addition, I have focused on applying AI in the fields of renewable energy, healthcare, and natural language processing, and have the ability to take a project from research to deployment, creating AI-based solutions and products for practical, real-world situations.
 </p>
