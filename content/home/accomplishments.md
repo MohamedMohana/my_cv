@@ -56,7 +56,7 @@ item:
     description: ''
     organization: DeeplearningAI
     organization_url: https://www.deeplearning.ai/
-    title: AI fot Medicine 
+    title: AI for Medicine 
     url: ''
 
   - certificate_url: https://www.coursera.org/account/accomplishments/verify/L2LX7KC9NY36
